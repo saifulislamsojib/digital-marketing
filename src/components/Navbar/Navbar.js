@@ -54,7 +54,7 @@ const Navbar = () => {
             <ul className="navbar-nav mb-2 mb-lg-0">
                 {
                     navbarData.map(({title, path}) => (
-                        <li key={path} className="nav-item mx-lg-4">
+                        <li key={path} className="nav-item mx-lg-2">
                             <Link to={path} className="nav-link text-white link">{title}</Link>
                         </li>
                     ))

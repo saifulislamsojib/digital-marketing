@@ -12,7 +12,7 @@
   border: 1px solid #00e18e;
   padding: 0 15px 0 10px;
   max-width: 280px;
-  min-height: 45px;
+  height: 45px;
 }
 
 .header-icon {
@@ -24,4 +24,15 @@
 
 .navbar input::placeholder {
   color: white;
+}
+.nav-item {
+  padding: 0 20px;
+}
+.nav-item:hover {
+  background: #fff;
+  border-radius: 100px;
+}
+
+.nav-item:hover .nav-link {
+  color: #00e18e !important;
 }
