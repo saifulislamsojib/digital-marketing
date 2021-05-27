@@ -1,0 +1,27 @@
+.link {
+  font-weight: 500;
+  font-size: 1.22rem;
+}
+
+.navbar-contain {
+  width: 83%;
+}
+
+.get-more {
+  background-color: #00e18e;
+  border: 1px solid #00e18e;
+  padding: 0 15px 0 10px;
+  max-width: 280px;
+  min-height: 45px;
+}
+
+.header-icon {
+  color: white;
+}
+.navbar input:focus {
+  box-shadow: none;
+}
+
+.navbar input::placeholder {
+  color: white;
+}

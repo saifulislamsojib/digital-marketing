@@ -1,0 +1,12 @@
+.footer {
+  background-image: url(../../images/footer-bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 800px;
+  width: 100%;
+}
+
+.footer-img {
+  margin-top: 130px;
+  width: 100%;
+}

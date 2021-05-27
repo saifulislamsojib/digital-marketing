@@ -1,0 +1,8 @@
+.header {
+  background-image: url(../../images/header-bg.svg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+  padding: 30px;
+  min-height: 1400px;
+}
